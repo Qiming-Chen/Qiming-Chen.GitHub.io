@@ -1,0 +1,13 @@
+---
+author: chenqiming
+comments: true
+date: 2017-07-15
+layout: post
+title: 第一篇
+description: 第一篇
+categories:
+- Daily Life
+tags:
+- Daily Note
+---
+    终于还是想要记录一些属于自己的东西，有时间就随便写写！
